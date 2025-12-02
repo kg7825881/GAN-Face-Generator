@@ -33,7 +33,7 @@ This visualization shows a smooth transition between two randomly generated face
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YourUsername/GAN-Face-Generator.git](https://github.com/YourUsername/GAN-Face-Generator.git)
+    git clone https://github.com/kg7825881/GAN-Face-Generator
     ```
 2.  **Install dependencies:**
     ```bash
